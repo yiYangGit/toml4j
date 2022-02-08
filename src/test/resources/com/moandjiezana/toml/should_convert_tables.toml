@@ -1,0 +1,7 @@
+[group1]
+	string = "value1"
+[group2]
+string="value2"
+number=2
+[group3]
+string="defaultValue3"

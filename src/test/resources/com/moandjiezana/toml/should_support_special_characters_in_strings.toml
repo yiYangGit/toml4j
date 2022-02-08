@@ -1,0 +1,8 @@
+key = "\" \t \n \r \\ \b \f"
+unicode_key = "more or less \u00B1"
+unicode_key_uppercase = "more or less \u00B1"
+key2=[
+    "\uFEFF",
+    "\u202A",
+    "\u202A"
+]
